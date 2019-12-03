@@ -1,1 +1,0 @@
-.scroller::-webkit-scrollbar{display:block;overflow:hidden;width:1px;background:transparent}.scroller::-webkit-scrollbar:horizontal{height:1px}.scroller::-webkit-scrollbar-button{display:none}.scroller::-webkit-scrollbar-piece,.scroller::-webkit-scrollbar-piece:start{background:transparent}.scroller::-webkit-scrollbar-corner,.scroller::-webkit-scrollbar-thumb{background:#b4b4b4}
